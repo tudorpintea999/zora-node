@@ -1,0 +1,2 @@
+#rename this file as .env and add it in the cloned dir
+OP_NODE_L1_ETH_RPC=https://eth-mainnet.g.alchemy.com/v2/NRlQO5oaftn5jcDeq8aSTFKWT9djCFDB
